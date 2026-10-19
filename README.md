@@ -1,2 +1,12 @@
-# Building Agentic AI Workflows on GCP 🚀 **Event:** GDG Pre-DevFest 2026 **Speaker:** Ogbonna Daniel Chiemela (Founder, Axonn) **Topic:** Prompt to Production: Moving Beyond Chatbots to Autonomous Cloud Architecture --- ## 📌 Overview This repository contains the starter code and live workshop lab for building containerized, autonomous agentic workflows using **Vertex AI (Gemini 1.5 Pro)** and **Google Cloud Run**. --- ## 🏗️ Architecture Stack * **Reasoning Engine:** Gemini 1.5 Pro via Vertex AI * **Orchestration / Backend:** Python & Flask * **Containerization:** Docker * **Deployment Platform:** Google Cloud Run (Serverless) --- ## ⚡ Quickstart: Deploy in 5 Minutes (Google Cloud Shell) ### 1. Open Cloud Shell Open [console.cloud.google.com](https://console.cloud.google.com) and click the **Activate Cloud Shell** icon (`>_`) at the top right. ### 2. Clone Repository & Navigate ```bash git clone https://github.com/YOUR_GITHUB_USERNAME/agentic-ai-gcp-workshop.git cd agentic-ai-gcp-workshop# agentic_ai_workshop_devfest
+# Building Agentic AI Workflows on GCP 🚀
+**Event:** GDG Pre-DevFest 2026 
+**Speaker:** Ogbonna Daniel Chiemela (Founder, Axonn) 
+**Topic:** Prompt to Production: Moving Beyond Chatbots to Autonomous Cloud Architecture --- ## 📌 Overview This repository contains the starter code and live workshop lab for building containerized, autonomous agentic workflows using 
+**Vertex AI (Gemini 1.5 Pro)** and **Google Cloud Run**. --- 
+## 🏗️ Architecture Stack * 
+**Reasoning Engine:** Gemini 1.5 Pro via Vertex AI * 
+**Orchestration / Backend:** Python & Flask * 
+**Containerization:** Docker * 
+**Deployment Platform:** Google Cloud Run (Serverless) --- ## ⚡ Quickstart: Deploy in 5 Minutes (Google Cloud Shell) ### 1. Open Cloud Shell Open [console.cloud.google.com](https://console.cloud.google.com) and click the 
+**Activate Cloud Shell** icon (`>_`) at the top right. ### 2. Clone Repository & Navigate ```bash git clone https://github.com/YOUR_GITHUB_USERNAME/agentic-ai-gcp-workshop.git cd agentic-ai-gcp-workshop# agentic_ai_workshop_devfest
 Companion code and live workshop lab for "Building Agentic AI Workflows on GCP" at GDG Pre-DevFest 2026.
